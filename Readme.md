@@ -1,6 +1,7 @@
 # Random Quote Generator
 
 This is a javascript project that generatea a new quote on every click.
+## Website Link : https://quotes-generator-04.netlify.app/
 
 ## New Quote
 
